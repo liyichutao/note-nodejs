@@ -1,3 +1,6 @@
+/**
+ * 获取GET请求内容
+ */
 var http = require("http");
 var url = require("url");
 var util = require("util");
